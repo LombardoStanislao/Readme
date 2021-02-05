@@ -1,4 +1,4 @@
-<img alt="computer-wallpaper" src="https://istefan.ro/img/hero/web-developer-newsletter-coder-stefan-iordache.jpg">
+
 
 ### Hi there, I'm Stanislao! 👋
 
